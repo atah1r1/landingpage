@@ -1,7 +1,7 @@
 {
     "Header": {
 
-        "title": "Reach More Viewers",
+        "title": "\n\n",
         "paragraph": "Grow your audience, no matter where they are."
 
     },
@@ -49,33 +49,23 @@
     ],
     "Testimonials": [{
             "img": "img/testimonials/01.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
+            "text": "\"When we went to Switchboard Live, we were able to see quantitative growth on our live streams. Our engagement is off the charts and our numbers are exploding.\"",
+            "name": "Matt Brown"
         },
         {
             "img": "img/testimonials/02.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
+            "text": "\"We experienced a large spike in engagement and viewership during all three shows. We were able to break through the clutter in the digital media space.\"",
+            "name": "Ryan Christiansen"
         },
         {
             "img": "img/testimonials/03.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
+            "text": "\"Switchboard Live is a simple cost effective addition to any content creator who wants to stream their LIVE feed to multiple online channels.\"",
+            "name": "Aaron Sanchez"
         },
         {
             "img": "img/testimonials/04.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
-        },
-        {
-            "img": "img/testimonials/05.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
-        },
-        {
-            "img": "img/testimonials/06.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
+            "text": "\"I absolutely LOVE Switchboard Cloud. It's so easy to use and incredibly versatile. I love how I can switch output streams at the click of a button and don't have to worry about a reaching our audience.\"",
+            "name": "Tony Bruno"
         }
     ],
     "Team": [{
