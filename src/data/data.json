@@ -97,22 +97,22 @@
         "youtube": "youtube.com"
     },
     "Features": [{
-            "icon": "/img/features/4.png",
+            "icon": "img/features/4.png",
             "title": "Unlimited Destinations",
             "text": "Stream to your audience through as many of your social channels as you'd like, simultaneously."
         },
         {
-            "icon": "/img/features/3.png",
+            "icon": "img/features/3.png",
             "title": "Embed Player",
             "text": "Embed your livestream on your website for simple and easy access for your audience."
         },
         {
-            "icon": "/img/features/1.png",
+            "icon": "img/features/1.png",
             "title": "StreamShare",
             "text": "Allow others to carry your stream to their audience, thereby increasing your viewership."
         },
         {
-            "icon": "/img/features/2.png",
+            "icon": "img/features/2.png",
             "title": "Quick Setup",
             "text": "Get up and running with our easy-to-use interface and unlimited access to our support team."
         }
